@@ -1,0 +1,6 @@
+{
+  "name": "FileMaster Tools",
+  "description": "Fast, private in-browser image compressor, dual-engine PDF compressor with password support, passport size photo studio with print sheets, online signature maker, and document scanner by Satyam Ray.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

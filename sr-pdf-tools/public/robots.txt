@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://srpdf-tools.web.app/sitemap.xml
